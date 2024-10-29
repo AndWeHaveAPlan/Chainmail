@@ -1,0 +1,1 @@
+simple C# operator example with https://github.com/buehler/dotnet-operator-sdk
